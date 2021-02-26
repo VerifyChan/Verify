@@ -1,3 +1,5 @@
 {
-  "testHide":NO
+  "testHide":NO,
+  "dynamicBackground":YES,
+  "hideRecords":NO
 }
