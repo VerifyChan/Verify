@@ -1,5 +1,4 @@
 {
-  "testHide":0,
-  "dynamicBackground":1,
-  "hideRecords":0
+  "testHide" : "1",
+  "dynamicBackground" : 2
 }
